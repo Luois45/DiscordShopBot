@@ -3,4 +3,4 @@ numpy==1.26.4
 discord.py==2.3.2
 mysql-connector-python==8.3.0
 requests==2.31.0
-validators==0.22.0
+validators==0.24.0
